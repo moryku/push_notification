@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851157398775",
+    "firebase_url": "https://kkm-project-sample.firebaseio.com",
+    "project_id": "kkm-project-sample",
+    "storage_bucket": "kkm-project-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851157398775:android:0a975571fa470e65",
+        "android_client_info": {
+          "package_name": "com.ezyindustries.kkmpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851157398775-sdbctn2k7gt4pcudc4kg2ffbkjdvb3s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhefF4Poas27IJcGN-oN9kyJxNou6PqS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851157398775-sdbctn2k7gt4pcudc4kg2ffbkjdvb3s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
